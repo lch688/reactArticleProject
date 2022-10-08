@@ -1,0 +1,25 @@
+{
+  "success": true,
+  "data": {
+    "article_list": [
+      {
+        "id": 4,
+        "title": "Redux (JavaScript library)",
+        "desc": "Redux is an open-source JavaScript library for managing and centralizing application state. It is most commonly used with libraries such as React or Angular for building user interfaces. Similar to (and inspired by) Facebook's Flux architecture, it was created by Dan Abramov and Andrew Clark. Since mid-2016, the primary maintainers are Mark Erikson and Tim Dorr...",
+        "imgurl": "hhttp://47.90.134.160:9566/img/list3.jpg"
+      },
+      {
+        "id": 5,
+        "title": "TypeScript",
+        "desc": "TypeScript is a free and open source programming language developed and maintained by Microsoft. It is a strict syntactical superset of JavaScript and adds optional static typing to the language. It is designed for the development of large applications and transpiles to JavaScript.[5] As it is a superset of JavaScript, existing JavaScript programs are also valid TypeScript programs...",
+        "imgurl": null
+      },
+      {
+        "id": 6,
+        "title": "CSS-in-JS ",
+        "desc": " It is a styling technique by which JavaScript is used to style components. When this JavaScript is parsed, CSS is generated (usually as a <style> element) and attached into the DOM. It enables the abstraction of CSS to the component level itself, using JavaScript to describe styles in a declarative and maintainable way. There are multiple implementations of this concept in the form of libraries such as Emotion Styled Components JSS[3]...",
+        "imgurl": "http://47.90.134.160:9566/img/list4.jpg"
+      }
+    ]
+  }
+}

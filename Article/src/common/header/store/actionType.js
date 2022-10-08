@@ -1,0 +1,6 @@
+export const FOCUSON='FocusedOn'
+export const FOCUSOFF='FocusedOff'
+export const CHANGELIST='headerlist'
+export const MOUSEIN='enterIn'
+export const MOUSELEAVE='enterLeave'
+export const CHANGEPAGE='SWITCHPAGE'
